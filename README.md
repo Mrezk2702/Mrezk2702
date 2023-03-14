@@ -37,7 +37,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrezk2702&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrezk2702&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezk2702&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezk2702&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
