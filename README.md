@@ -15,20 +15,30 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-###  About me
+### 👨‍💻  About me
 -  I’m Mohamed Rezk
-- I'm an undergrad Aerospace Engineering student
-- I'm an embedded software engineer
-- ask me about Embedded systems,Communication protocls and RTOS. let's discuss it togetther
-- I'm currently improving my problem solving skills and embedded system skills to enter the field as soon as I graduate.
+- ✈️I'm an undergrad Aerospace Engineering student
+- 💻I'm an embedded software engineer
+- 🔭 ask me about Embedded systems,Communication protocls and RTOS. let's discuss it togetther
+- ⚡:I'm currently improving my problem solving skills and embedded system skills to enter the field as soon as I graduate.
+
+
 ---
-###  Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="ُEmbedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥 Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrezk2702&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrezk2702&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezk2702&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
