@@ -1,6 +1,6 @@
 
 <p id="header" align="center">
-  <img src="" width="250"/>
+  <img src="Icons/Embedded.jpg" width="500"/>
 <p>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/mohamed-rezk-bayoumi-a486a41b9/">
