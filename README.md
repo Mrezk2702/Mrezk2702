@@ -1,7 +1,7 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" width="250"/>
-</div>
+<p id="header" align="center">
+  <img src="" width="250"/>
+<p>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/mohamed-rezk-bayoumi-a486a41b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,7 +37,7 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Mrezk2702&theme=dark&mode=weekly">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrezk2702&show_icons=true&theme=dark">
-  <div>
+  </div>
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezk2702&hide_progress=true&theme=dark">
 </p>
