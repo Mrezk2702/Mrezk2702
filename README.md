@@ -35,8 +35,8 @@
 ---
 ### 🔥 Stats :
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mrezk2702&theme=dark&mode=weekly">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrezk2702&show_icons=true&theme=dark">&nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mrezk2702&theme=dark&mode=weekly"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrezk2702&show_icons=true&theme=dark"/>&nbsp;
   </div>
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezk2702&hide_progress=true&theme=dark">
