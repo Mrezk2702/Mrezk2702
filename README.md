@@ -16,8 +16,8 @@
 </h1>
 
 ### 👨‍💻  About me
--  I’m Mohamed Rezk
-- ✈️I'm an undergrad Aerospace Engineering student
+-  My name is Mohamed Rezk
+- ✈️I'm an undergrad Aerospace Engineering student @ Cairo University
 - 💻I'm an embedded software engineer
 - 🔭ask me about Embedded systems,Communication protocls and RTOS. let's discuss it togetther
 - ⚡I'm currently improving my problem solving skills and embedded system skills to enter the field as soon as I graduate.
