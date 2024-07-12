@@ -17,10 +17,10 @@
 
 ### 👨‍💻  About me
 -  My name is Mohamed Rezk
-- ✈️I'm an  Aerospace Engineer
-- 💻I'm an embedded software engineer
+- ✈️Aerospace Engineer
+- 💻Embedded/MBD Software Engineer at Valeo Egypt
 - 🔭ask me about Embedded systems,Communication protocls and RTOS. let's discuss it together
-- ⚡I'm currently improving my problem solving skills and embedded system skills to enter the field as soon as I graduate.
+- ⚡Still learning
 
 
 ---
