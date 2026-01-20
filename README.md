@@ -15,12 +15,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👨‍💻  About me
--  My name is Mohamed Rezk
-- ✈️Aerospace Engineer
-- 💻Embedded/MBD Software Engineer at Valeo Egypt
-- 🔭ask me about Embedded systems,Communication protocls and RTOS. let's discuss it together
-- ⚡Still learning
+###   About me
+- Aerospace Engineer
+- Embedded/MBD Software Engineer at Valeo Egypt
+- ask me about Embedded systems,Communication protocls and RTOS. let's discuss it together
+- Still learning
 
 
 ---
