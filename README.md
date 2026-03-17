@@ -23,61 +23,12 @@
 
 ## 👋 About Me
 
-I'm an **Aerospace Engineer** turned **Embedded & Model-Based Software Engineer**, currently building production-grade automotive software at **Valeo Egypt**. My work sits at the intersection of low-level hardware control and high-level software design — from bare-metal microcontrollers to Simulink-generated code running in real vehicles.
+**Aerospace Engineer** and **Self Taught Software Engineer**, My work sits at the intersection of low-level hardware control and high-level software design — from bare-metal microcontrollers to Simulink-generated code running in real vehicles.
 
 I'm passionate about building systems that are not only *functional* but *correct by design* — whether that means a well-tuned motor controller, a rigorously structured OOP architecture, or an efficient algorithm under tight memory constraints.
 
 > *"Still learning" — always.*
 
----
-
-## 🧠 Domains of Expertise
-
-<table>
-  <tr>
-    <td valign="top" width="25%">
-
-### ⚙️ Motor Control
-- Field-Oriented Control (FOC)
-- BLDC / PMSM drive systems
-- PWM generation & current sensing
-- PID & advanced control loops
-- Real-time embedded control
-
-    </td>
-    <td valign="top" width="25%">
-
-### 🧩 Model-Based Design
-- MATLAB / Simulink modeling
-- Automatic code generation
-- Plant modeling & simulation
-- V-Model development lifecycle
-
-    </td>
-    <td valign="top" width="25%">
-
-### 💻 Software Engineering
-- Embedded C / C++ systems
-- RTOS (FreeRTOS)
-- Communication: UART, SPI, I2C, CAN
-- Layered SW architecture
-- Unit testing & static analysis
-
-    </td>
-    <td valign="top" width="25%">
-
-### 🏗️ OOP & DSA
-- Object-Oriented Design in C++ / Java
-- Design patterns (SOLID principles)
-- Data Structures & Algorithms
-- Memory management
-- Performance-aware coding
-
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Languages & Tools
 
